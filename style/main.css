@@ -75,8 +75,7 @@ h1, h2, h3, p {
   background: url(http://i.giphy.com/fsULJFFGv8X3G.gif);
   background-size: cover;
   background-position: center;
-  -webkit-background-clip: text;
-          background-clip: text;
+  background-clip: text;
   color: transparent;
 }
 @media screen and (min-width: 768px) {
@@ -1247,4 +1246,6 @@ h1, h2, h3, p {
   font-weight: 400;
   line-height: 1.87;
   letter-spacing: 0.48px;
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*# sourceMappingURL=main.css.map */
